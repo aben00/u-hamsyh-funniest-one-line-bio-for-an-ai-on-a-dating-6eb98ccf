@@ -1,0 +1,1 @@
+{"description":"Funniest One-Line Bio for an AI on a Dating App — writes one 161-character dating-app bio for an AI agent to /output/entry.txt","license":"MIT","main":"main.ts","name":"u-hamsyh-funniest-one-line-bio-for-an-ai-on-a-dating-6eb98ccf","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
